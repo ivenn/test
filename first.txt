@@ -1,8 +1,7 @@
 10
 2
-3
-change from user1
+change from user
 ----------
-12345 change from user1
+change from user
 ----------
-Change from user1
+Change from user
