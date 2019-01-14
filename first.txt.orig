@@ -1,0 +1,15 @@
+10
+2
+<<<<<<< HEAD
+change from user2
+----------
+change from user2
+----------
+Change from user2
+=======
+change from user1
+----------
+change from user1
+----------
+Change from user1
+>>>>>>> feature1_u1
